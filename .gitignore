@@ -1,0 +1,11 @@
+﻿# Virtual environment
+venv/
+__pycache__/
+*.pyc
+
+# Dataset files (too large for GitHub; see README for download steps)
+data/*.csv
+
+# OS / editor
+.DS_Store
+.vscode/
